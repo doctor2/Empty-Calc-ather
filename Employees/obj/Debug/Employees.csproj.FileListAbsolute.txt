@@ -1,0 +1,14 @@
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\bin\Debug\Employees.exe.config
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\bin\Debug\Employees.exe
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\bin\Debug\Employees.pdb
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\MainWindow.baml
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\MainWindow.g.cs
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\App.g.cs
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees_MarkupCompile.cache
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.g.resources
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.Cache
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.exe
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.pdb
+c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\App.baml
