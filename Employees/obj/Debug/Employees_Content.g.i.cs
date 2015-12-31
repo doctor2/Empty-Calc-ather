@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("database.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dbemployee.mdf")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dbemployee_log.ldf")]
 
 

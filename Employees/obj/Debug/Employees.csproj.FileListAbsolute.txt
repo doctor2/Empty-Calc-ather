@@ -12,3 +12,14 @@ c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debu
 c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.exe
 c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\Employees.pdb
 c:\users\Ivan\documents\visual studio 2013\Projects\Employees\Employees\obj\Debug\App.baml
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\obj\Debug\Employees_Content.g.cs
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\bin\Debug\EntityFramework.dll
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\bin\Debug\EntityFramework.xml
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\bin\Debug\DBEmployee.mdf
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\bin\Debug\DBEmployee_log.ldf
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\obj\Debug\Employees_MarkupCompile.lref
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\obj\Debug\UserCont.baml
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Employees\Employees\obj\Debug\UserCont.g.cs

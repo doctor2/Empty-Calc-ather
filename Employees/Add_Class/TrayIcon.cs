@@ -18,7 +18,7 @@ namespace Employees
         {
             bool result = false;
             if (TrayIcon == null)
-            { // только если мы не создали иконку ранее
+            { // только если мы не создали иконку ранеhm
                 TrayIcon = new System.Windows.Forms.NotifyIcon(); // создаем новую
                 TrayIcon.Icon = Employees.Properties.Resources.database; // изображение для трея
                 // обратите внимание, за ресурсом с картинкой мы лезем в свойства проекта, а не окна,
@@ -105,6 +105,7 @@ namespace Employees
         // переопределяем обработчик запроса выхода из приложения
         protected override void OnClosing(System.ComponentModel.CancelEventArgs e)
         {
+            context.Dispose();
             base.OnClosing(e); // встроенная обработка
             if (!CanClose)
             {    // если нельзя закрывать
